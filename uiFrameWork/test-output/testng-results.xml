@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Test test started..]]>
+    </line>
+    <line>
+      <![CDATA[testLogin test started..]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\Prade\eclipse-workspace-FrameWorkByPradeep\uiFrameWork\src\main\resources\screenShots\Blank_13-07-2020-01-36-54.png'><img src='C:\Users\Prade\eclipse-workspace-FrameWorkByPradeep\uiFrameWork\src\main\resources\screenShots\Blank_13-07-2020-01-36-54.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[testLogin test passed..]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\Prade\eclipse-workspace-FrameWorkByPradeep\uiFrameWork\src\main\resources\screenShots\testLogin_13-07-2020-01-37-23.png'><img src='C:\Users\Prade\eclipse-workspace-FrameWorkByPradeep\uiFrameWork\src\main\resources\screenShots\testLogin_13-07-2020-01-37-23.png'height='100' width='100'/></a>]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="46345" started-at="2020-07-13T08:06:41Z" finished-at="2020-07-13T08:07:27Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="46345" started-at="2020-07-13T08:06:41Z" finished-at="2020-07-13T08:07:27Z">
+      <class name="com.uiFrameWork.CompanyName.ProjectName.testScripts.LoginTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.uiFrameWork.CompanyName.ProjectName.testScripts.LoginTest@6c49835d]" name="beforeSuite" is-config="true" duration-ms="256" started-at="2020-07-13T08:06:41Z" finished-at="2020-07-13T08:06:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.uiFrameWork.CompanyName.ProjectName.testScripts.LoginTest@6c49835d]" name="beforeTest" is-config="true" duration-ms="7241" started-at="2020-07-13T08:06:41Z" finished-at="2020-07-13T08:06:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.uiFrameWork.CompanyName.ProjectName.testScripts.LoginTest@6c49835d]" name="beforeClass" is-config="true" duration-ms="4" started-at="2020-07-13T08:06:48Z" finished-at="2020-07-13T08:06:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.uiFrameWork.CompanyName.ProjectName.testScripts.LoginTest@6c49835d]" name="beforeMethod" is-config="true" duration-ms="12" started-at="2020-07-13T08:06:48Z" finished-at="2020-07-13T08:06:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.uiFrameWork.CompanyName.ProjectName.testScripts.LoginTest.testLogin() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:com.uiFrameWork.CompanyName.ProjectName.testScripts.LoginTest@6c49835d]" name="testLogin" duration-ms="35129" started-at="2020-07-13T08:06:48Z" description="login test with valid credentials" finished-at="2020-07-13T08:07:23Z">
+          <reporter-output>
+            <line>
+              <![CDATA[testLogin test started..]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\Prade\eclipse-workspace-FrameWorkByPradeep\uiFrameWork\src\main\resources\screenShots\Blank_13-07-2020-01-36-54.png'><img src='C:\Users\Prade\eclipse-workspace-FrameWorkByPradeep\uiFrameWork\src\main\resources\screenShots\Blank_13-07-2020-01-36-54.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[testLogin test passed..]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.uiFrameWork.CompanyName.ProjectName.testScripts.LoginTest@6c49835d]" name="afterMethod" is-config="true" duration-ms="3087" started-at="2020-07-13T08:07:23Z" finished-at="2020-07-13T08:07:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testLogin status=SUCCESS method=LoginTest.testLogin()[pri:0, instance:com.uiFrameWork.CompanyName.ProjectName.testScripts.LoginTest@6c49835d] output=testLogin test started..]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='C:\Users\Prade\eclipse-workspace-FrameWorkByPradeep\uiFrameWork\src\main\resources\screenShots\testLogin_13-07-2020-01-37-23.png'><img src='C:\Users\Prade\eclipse-workspace-FrameWorkByPradeep\uiFrameWork\src\main\resources\screenShots\testLogin_13-07-2020-01-37-23.png'height='100' width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.uiFrameWork.CompanyName.ProjectName.testScripts.LoginTest@6c49835d]" name="afterTest" is-config="true" duration-ms="832" started-at="2020-07-13T08:07:26Z" finished-at="2020-07-13T08:07:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.uiFrameWork.CompanyName.ProjectName.testScripts.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

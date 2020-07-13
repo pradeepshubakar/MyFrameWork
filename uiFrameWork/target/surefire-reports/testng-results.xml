@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[<a href='C:\Users\Prade\eclipse-workspace-FrameWorkByPradeep\uiFrameWork\src\main\resources\screenShots\Blank_06-07-2020-01-31-57.png'><img src='C:\Users\Prade\eclipse-workspace-FrameWorkByPradeep\uiFrameWork\src\main\resources\screenShots\Blank_06-07-2020-01-31-57.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\Prade\eclipse-workspace-FrameWorkByPradeep\uiFrameWork\src\main\resources\screenShots\testLogin_06-07-2020-01-32-05.png'><img src='C:\Users\Prade\eclipse-workspace-FrameWorkByPradeep\uiFrameWork\src\main\resources\screenShots\testLogin_06-07-2020-01-32-05.png'height='100' width='100'/></a>]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="23290" started-at="2020-07-06T08:01:44Z" finished-at="2020-07-06T08:02:08Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="23290" started-at="2020-07-06T08:01:44Z" finished-at="2020-07-06T08:02:08Z">
+      <class name="com.uiFrameWork.CompanyName.ProjectName.testScripts.LoginTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.uiFrameWork.CompanyName.ProjectName.testScripts.LoginTest@31a5c39e]" name="beforeSuite" is-config="true" duration-ms="273" started-at="2020-07-06T08:01:44Z" finished-at="2020-07-06T08:01:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.uiFrameWork.CompanyName.ProjectName.testScripts.LoginTest@31a5c39e]" name="beforeTest" is-config="true" duration-ms="6199" started-at="2020-07-06T08:01:44Z" finished-at="2020-07-06T08:01:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.uiFrameWork.CompanyName.ProjectName.testScripts.LoginTest@31a5c39e]" name="beforeClass" is-config="true" duration-ms="2" started-at="2020-07-06T08:01:50Z" finished-at="2020-07-06T08:01:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.uiFrameWork.CompanyName.ProjectName.testScripts.LoginTest@31a5c39e]" name="beforeMethod" is-config="true" duration-ms="5" started-at="2020-07-06T08:01:50Z" finished-at="2020-07-06T08:01:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.uiFrameWork.CompanyName.ProjectName.testScripts.LoginTest.testLogin()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:com.uiFrameWork.CompanyName.ProjectName.testScripts.LoginTest@31a5c39e]" name="testLogin" duration-ms="14695" started-at="2020-07-06T08:01:50Z" description="login test with valid credentials" finished-at="2020-07-06T08:02:05Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='C:\Users\Prade\eclipse-workspace-FrameWorkByPradeep\uiFrameWork\src\main\resources\screenShots\Blank_06-07-2020-01-31-57.png'><img src='C:\Users\Prade\eclipse-workspace-FrameWorkByPradeep\uiFrameWork\src\main\resources\screenShots\Blank_06-07-2020-01-31-57.png'height='100' width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.uiFrameWork.CompanyName.ProjectName.testScripts.LoginTest@31a5c39e]" name="afterMethod" is-config="true" duration-ms="1187" started-at="2020-07-06T08:02:05Z" finished-at="2020-07-06T08:02:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testLogin status=SUCCESS method=LoginTest.testLogin()[pri:0, instance:com.uiFrameWork.CompanyName.ProjectName.testScripts.LoginTest@31a5c39e] output=<a href='C:\Users\Prade\eclipse-workspace-FrameWorkByPradeep\uiFrameWork\src\main\resources\screenShots\Blank_06-07-2020-01-31-57.png'><img src='C:\Users\Prade\eclipse-workspace-FrameWorkByPradeep\uiFrameWork\src\main\resources\screenShots\Blank_06-07-2020-01-31-57.png'height='100' width='100'/></a>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='C:\Users\Prade\eclipse-workspace-FrameWorkByPradeep\uiFrameWork\src\main\resources\screenShots\testLogin_06-07-2020-01-32-05.png'><img src='C:\Users\Prade\eclipse-workspace-FrameWorkByPradeep\uiFrameWork\src\main\resources\screenShots\testLogin_06-07-2020-01-32-05.png'height='100' width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.uiFrameWork.CompanyName.ProjectName.testScripts.LoginTest@31a5c39e]" name="afterTest" is-config="true" duration-ms="1189" started-at="2020-07-06T08:02:06Z" finished-at="2020-07-06T08:02:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.uiFrameWork.CompanyName.ProjectName.testScripts.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

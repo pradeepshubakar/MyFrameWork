@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+<listener class-name="com.uiFrameWork.CompanyName.ProjectName.helper.listener.RetryListener"></listener>
+</listeners>
+  <test thread-count="5" name="A">
+    <classes>
+      <class name="com.uiFrameWork.CompanyName.ProjectName.testScripts.A"/>
+    </classes>
+  </test> 
+  <test thread-count="5" name="B">
+    <classes>
+      <class name="com.uiFrameWork.CompanyName.ProjectName.testScripts.B"/>
+    </classes>
+  </test> 
+  <test thread-count="5" name="C">
+    <classes>
+      <class name="com.uiFrameWork.CompanyName.ProjectName.testScripts.C"/>
+    </classes>
+  </test> 
+</suite> 
